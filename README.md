@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohamed Jasir 👋
 
-<!--
-**MohamedJasir676/MohamedJasir676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year CSE - Cyber Security Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- C Programming
+- Python
+- Computer Networking
+- Cybersecurity Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My Goals:
+- Improve my programming skills
+- Build beginner-friendly projects
+- Learn ethical cybersecurity
+- Become a skilled Cybersecurity Professional
+
+📚 Certifications:
+- Cisco Introduction to Cybersecurity
+
+🚀 Welcome to my GitHub Profile!
